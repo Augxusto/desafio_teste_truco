@@ -1,0 +1,13 @@
+{
+  "name": "desafio_teste_truco",
+  "version": "1.0.0",
+  "description": "Casos de teste em JavaScript (Jest, TDD) para o Truco Paulista de 2 duplas",
+  "main": "src/truco.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
