@@ -1,5 +1,5 @@
 # desafio_teste_truco
-Aluno: Rodrigo Augusto da Silva Virgilino
+Aluno: Rodrigo Augusto da Silva Virgilino <br>
 RA: 24139528-2
 ## Especificação do Desafio
 
